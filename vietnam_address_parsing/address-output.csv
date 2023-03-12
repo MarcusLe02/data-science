@@ -128,7 +128,7 @@ hồ chí minh
  ","tổ 2; đường thanh minh tám huyện konplong; kontum  
 
 
- ",,,
+ ",Kon Tum,,
 "Sunview Tower; Hiep Bình Phước; Thủ Đức; HCM  
 
 
@@ -1386,20 +1386,6 @@ Hồ Chí Minh
 
 hồ chí minh
  ",Hồ Chí Minh,7,Tân Thuận Tây
-"#ERROR!
-
-
- ","#error!
-
-
- ",,,
-"#ERROR!
-
-
- ","#error!
-
-
- ",,,
 "482 Võ Văn Kiệt; Phường Cầu Kho; Quận 1; Hồ Chí Minh  
 
 
@@ -1815,13 +1801,6 @@ hồ chí minh
 
 
  ",Hồ Chí Minh,11,9
-"
-
-
- ","
-
-
- ",,,
 "Số nhà 16; đường 3.8/4 khu đô thị Gamuda (nếu đi vào đường Tam Trinh thi rẽ ngõ 885); phường Trần Phú; quận Hoàng Mai; Hà Nội;  
 
 Hà Nội
@@ -4879,13 +4858,6 @@ hà tĩnh
 
 
  ",Hồ Chí Minh,Nhà Bè,Phước Kiển
-"#ERROR!
-
-
- ","#error!
-
-
- ",,,
 "Số 37B ngõ 174 phố Mai Anh Tuấn; Ô Chợ Dừa; Đống Đa  
 
 Hà Nội
@@ -6516,20 +6488,8 @@ hà nội
 
 
  ",Vĩnh Long,Long Hồ,Long Hồ
-"Nhà số 3; ngách 36; ngõ 77 Xuân La; Tây Hồ Phường Xuân La Quận Tây Hồ Việt Nam  
-
-Hà Nội
- ","nhà số 3; ngách 36; ngõ 77 xuân la; tây hồ phường xuân la quận tây hồ việt nam  
-
-hà nội
- ",Hà Nội,Tây Hồ,Xuân La
-"Số nhà 11, ngách 49, ngõ 14, Mễ Trì Hạ, Từ Liêm, Hà Nội
-
-Hà Nội
- ","số nhà 11, ngách 49, ngõ 14, mễ trì hạ, từ liêm, hà nội
-
-hà nội
- ",Hà Nội,,
+Nhà số 3; ngách 36; ngõ 77 Xuân La; Tây Hồ Phường Xuân La Quận Tây Hồ Việt Nam,nhà số 3; ngách 36; ngõ 77 xuân la; tây hồ phường xuân la quận tây hồ việt nam,Hà Nội,Tây Hồ,Xuân La
+"Số nhà 11, ngách 49, ngõ 14, Mễ Trì Hạ, Từ Liêm, Hà Nội ","số nhà 11, ngách 49, ngõ 14, mễ trì hạ, từ liêm, hà nội ",Hà Nội,,
 "Cc ssr nguyễn hữu thọ nhà bè Saigon south residence Ho chi minh  
 
 
@@ -6545,3 +6505,6 @@ hà nội
 
  ",Hồ Chí Minh,7,Tân Kiểng
 "Xóm 10, xã Nghi Phú, TP Vinh, Nghệ An","xóm 10, xã nghi phú, tp vinh, nghệ an",Nghệ An,Vinh,Nghi Phú
+"Số 131, Tổ 02, Phường Tân Giang, Thành phố Cao Bằng","số 131, tổ 02, phường tân giang, thành phố cao bằng",Cao Bằng,Cao Bằng,Tân Giang
+"Lô C29 Khu công nghiệp Hòa Phú, Xã Hòa Phú, TP.Buôn Ma Thuột","lô c29 khu công nghiệp hòa phú, xã hòa phú, tp.buôn ma thuột",Bắc Giang,Hiệp Hòa,
+"07 ngõ 96, đường Hà Huy Tập, Cẩm Xuyên, Hà Tĩnh","07 ngõ 96, đường hà huy tập, cẩm xuyên, hà tĩnh",Hà Tĩnh,Cẩm Xuyên,Cẩm Xuyên
