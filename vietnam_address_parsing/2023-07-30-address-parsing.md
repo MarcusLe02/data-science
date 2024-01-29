@@ -1,13 +1,3 @@
----
-layout: post
-title: a post with code
-date: 2023-07-30 15:09:00
-description: Parsing raw Vietnamese address data
-tags: formatting code
-categories: sample-posts
-featured: true
----
-
 The accuracy and standardization of address data is critical for businesses, particularly in the e-commerce industry. Poorly parsed addresses can lead to slower delivery times, increased package returns, and unhappy customers. For data analysts, transforming raw address data into a standardized format can be a complex and daunting task, with even minor errors potentially having significant financial implications for the company.
 
 The goal of this article is to discuss the unique challenges posed by unstructured Vietnamese address data and to present a practical approach for extracting key information such as provinces, districts, and wards from these addresses. By exploring the characteristics of this data and sharing my own methodology, I hope to provide useful insights and strategies for addressing this common data analytics challenge.
